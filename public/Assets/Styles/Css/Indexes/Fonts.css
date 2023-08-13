@@ -1,0 +1,69 @@
+/* Font Family Persian */
+@font-face {
+    font-family: Sarbaz;
+    src: url(/Css/Fonts/Sarbaz.ttf);
+}
+
+@font-face {
+    font-family: Vazir;
+    src: url(/Css/Fonts/Vazir.ttf);
+}
+
+@font-face {
+    font-family: IranSens;
+    src: url(/Css/Fonts/IranSens.ttf);
+}
+
+
+.Fvazir{
+    font-family: vazir;
+}
+
+.FSarbaz{
+    font-family: Sarbaz;
+}
+
+
+.font1{
+    font-size: 0.7rem !important;
+}
+
+.font2{
+    font-size: 0.8rem !important;
+}
+
+.font3{
+    font-size: 0.9rem !important;
+}
+
+.font4{
+    font-size: 1rem !important;
+}
+
+.font5{
+    font-size: 1.1rem;
+}
+.font6{
+    font-size: 1.2rem;
+}
+.font7{
+    font-size: 1.3rem;
+}
+.font8{
+    font-size: 1.4rem;
+
+}
+.font9{
+    font-size: 1.5rem;
+}
+
+.setInp{
+    border: 0;
+    border-radius: 0;
+    margin-left: -5px;
+    background: var(--color-dark) !important;
+    color: white !important;
+}
+.left-radius{
+border-radius:  3px 0px  0px 3px !important;
+}
