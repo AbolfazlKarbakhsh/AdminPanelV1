@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/AdminPanelV1/static/css/main.fd1e19d8.css",
+    "main.css": "/AdminPanelV1/static/css/main.0908fb6b.css",
     "main.js": "/AdminPanelV1/static/js/main.bf58dbfb.js",
     "static/media/bootstrap-icons.woff?": "/AdminPanelV1/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/bootstrap-icons.woff2?": "/AdminPanelV1/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
     "static/media/Sarbaz.ttf": "/AdminPanelV1/static/media/Sarbaz.79a3f2253b2918bb4667.ttf",
     "static/media/Vazir-Bold.ttf": "/AdminPanelV1/static/media/Vazir-Bold.aaa531a9e9300b26225d.ttf",
     "index.html": "/AdminPanelV1/index.html",
-    "main.fd1e19d8.css.map": "/AdminPanelV1/static/css/main.fd1e19d8.css.map",
+    "main.0908fb6b.css.map": "/AdminPanelV1/static/css/main.0908fb6b.css.map",
     "main.bf58dbfb.js.map": "/AdminPanelV1/static/js/main.bf58dbfb.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd1e19d8.css",
+    "static/css/main.0908fb6b.css",
     "static/js/main.bf58dbfb.js"
   ]
 }
