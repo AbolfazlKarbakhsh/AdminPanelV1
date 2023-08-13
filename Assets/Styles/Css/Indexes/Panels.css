@@ -1,0 +1,201 @@
+body.MainPanelAdmin {
+    background: #0F1322;
+}
+#root , button{
+    transition: all .3s;
+}
+.btn{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    text-align:center;
+}
+.GigaMenuFother {
+    position: fixed;
+    z-index: 998 !important;
+    width: 0;
+    height: 100% !important;
+    background: rgba(0, 0, 0, 0.378);
+}
+
+.PanelCenter {
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 90% !important;
+    border-radius: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.CenterBox {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    justify-content: center;
+}
+.RightGigiMenu,
+.panelMobilTopNav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row !important;
+    align-content: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+.panelMobilTopNav {
+    height: auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+
+}
+.gigamenu{
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 85vh;
+}
+.gigamenu::-webkit-scrollbar {
+    background-color: transparent !important;
+    width: 16px;
+    border: 4px solid transparent !important;
+}
+.RightGigiMenu {
+    height: 100%;
+
+    flex-direction: column !important;
+
+}
+.sizeBtn {
+    width: 75%;
+}
+@media screen and (max-width:768px) {
+    body {
+        background: #F3F1EF !important;
+    }
+    .CenterBox {
+        padding: 0 !important;
+        margin: 0 !important;
+        display: block;
+        height: auto;
+
+
+    }
+    .PanelCenter{
+        height: auto !important;
+    }
+    .gigamenu {
+        background: #ffffff;
+        position: fixed;
+        height: 100%;
+        top: 0;
+        left: 0;
+        width: 0 !important;
+        z-index: 999 !important;
+        padding: 0 !important;
+        transition: 0.5s;
+    }
+    .mainContent {
+        border-radius: 0px !important;
+        height: auto !important;
+        padding: 0!important;
+        overflow: hidden !important;
+    }
+    .sizeBtn {
+        width: 50%;
+    }
+    .h-sm-auto{
+        height: auto;
+    }
+    .RightGigiMenu{
+        height: 100%;
+    }
+}
+.RightGigiMenu::-webkit-scrollbar,
+.mainContent::-webkit-scrollbar {
+    background-color: transparent !important;
+    width: 16px;
+    border: 4px solid transparent !important;
+}
+div .span-head {
+    color: #4291D9;
+}
+.mainContent {
+    background: #F3F1EF;
+    border-radius: 20px;
+    height: 100% !important;
+}
+.mainContent::-webkit-scrollbar-thumb {
+    background-color: #babac0;
+    border-radius: 16px;
+    border: 5px solid #F3F1EF;
+    width: 2px !important;
+}
+.AvatarFix {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+.btnRightNav {
+    width: 95% !important;
+    margin: 5px 0;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.overFlowNone{
+    overflow: hidden;
+}
+
+.width-100{
+    width: 100% !important;
+    height: 100vh !important;
+}
+/* tiels  */
+
+.BoxTiels {
+    margin-top: 20px;
+    padding: 15px;
+    height: auto;
+}
+
+/* bg tiles  */
+.Dashboard{
+    background: #9dd3dc;
+
+}
+
+.Post{
+    background: var(--color-kerem);
+}
+
+.Gallery{
+    background: var(--color-blue);
+    
+}
+
+.Todo{
+    background: var(--color-zard);
+}
+
+.event.BoxTiels {
+    margin-top: 10px;
+    padding: 10px;
+    padding-top: 0;
+    height: auto;
+    background: #0F1322;
+}
+
+.tile {
+    padding: 0.25rem;
+    background-color: #FFFFFF;
+    border-radius: 0.25rem;
+    margin-top: 0.75rem;
+    margin-left: 0.25rem;
+    cursor: pointer;
+}
