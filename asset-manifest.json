@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AdminPanelV1/static/css/main.e02cd2c0.css",
-    "main.js": "/AdminPanelV1/static/js/main.9848f0b8.js",
+    "main.css": "/AdminPanelV1/static/css/main.1a25a018.css",
+    "main.js": "/AdminPanelV1/static/js/main.1e63e0e9.js",
     "static/media/bootstrap-icons.woff?": "/AdminPanelV1/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/bootstrap-icons.woff2?": "/AdminPanelV1/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
     "static/media/3.jpg": "/AdminPanelV1/static/media/3.0c355c5724b11b8f6134.jpg",
@@ -17,11 +17,11 @@
     "static/media/5.jpg": "/AdminPanelV1/static/media/5.605f2a8bdd3f29a08d0d.jpg",
     "static/media/1.jpg": "/AdminPanelV1/static/media/1.437dedf8ebbde55f5717.jpg",
     "index.html": "/AdminPanelV1/index.html",
-    "main.e02cd2c0.css.map": "/AdminPanelV1/static/css/main.e02cd2c0.css.map",
-    "main.9848f0b8.js.map": "/AdminPanelV1/static/js/main.9848f0b8.js.map"
+    "main.1a25a018.css.map": "/AdminPanelV1/static/css/main.1a25a018.css.map",
+    "main.1e63e0e9.js.map": "/AdminPanelV1/static/js/main.1e63e0e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e02cd2c0.css",
-    "static/js/main.9848f0b8.js"
+    "static/css/main.1a25a018.css",
+    "static/js/main.1e63e0e9.js"
   ]
 }
