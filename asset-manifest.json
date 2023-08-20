@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AdminPanelV1/static/css/main.8710f2e9.css",
-    "main.js": "/AdminPanelV1/static/js/main.a215c638.js",
+    "main.js": "/AdminPanelV1/static/js/main.30854cfa.js",
     "static/media/bootstrap-icons.woff?": "/AdminPanelV1/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/bootstrap-icons.woff2?": "/AdminPanelV1/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
     "static/media/3.jpg": "/AdminPanelV1/static/media/3.0c355c5724b11b8f6134.jpg",
@@ -18,10 +18,10 @@
     "static/media/1.jpg": "/AdminPanelV1/static/media/1.437dedf8ebbde55f5717.jpg",
     "index.html": "/AdminPanelV1/index.html",
     "main.8710f2e9.css.map": "/AdminPanelV1/static/css/main.8710f2e9.css.map",
-    "main.a215c638.js.map": "/AdminPanelV1/static/js/main.a215c638.js.map"
+    "main.30854cfa.js.map": "/AdminPanelV1/static/js/main.30854cfa.js.map"
   },
   "entrypoints": [
     "static/css/main.8710f2e9.css",
-    "static/js/main.a215c638.js"
+    "static/js/main.30854cfa.js"
   ]
 }
